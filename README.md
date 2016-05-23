@@ -9,7 +9,7 @@ The image is based on Alpine Linux and is ~272MB.
 ### Versions
 * Exhibitor 1.5.5
 * Java 1.8
-* ZooKeeper 3.4.7
+* ZooKeeper 3.4.8
 
 ### Usage
 The container expects the following environment variables to be passed in:
